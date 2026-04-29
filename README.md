@@ -5,9 +5,9 @@
 
 ## 📖 Giới thiệu / Introduction
 
-**MemDeck** là một plugin học ngoại ngữ dành cho **KOReader** (nền tảng đọc sách trên các thiết bị ebook như Kindle, Kobo, PocketBook). Ứng dụng giúp người dùng học từ vựng hiệu quả thông qua phương pháp flashcard kết hợp hệ thống lặp lại ngắt quãng (SM-2).
+**MemDeck** là một plugin học ngoại ngữ dành cho **KOReader** (nền tảng đọc sách trên các thiết bị e-ink như Kindle, Kobo, PocketBook). Ứng dụng giúp người dùng học từ vựng hiệu quả thông qua phương pháp flashcard kết hợp hệ thống lặp lại ngắt quãng (SM-2).
 
-**MemDeck** is a language learning plugin for **KOReader** (an ebook reader platform for devices like Kindle, Kobo, PocketBook). It helps users learn vocabulary effectively through flashcards combined with the spaced repetition system (SM-2).
+**MemDeck** is a language learning plugin for **KOReader** (an e-ink reader platform for devices like Kindle, Kobo, PocketBook). It helps users learn vocabulary effectively through flashcards combined with the spaced repetition system (SM-2).
 
 ---
 
@@ -33,21 +33,12 @@
 | Theo dõi tiến độ: Phần trăm hoàn thành, số thẻ đã học, số thẻ đến hạn | Progress tracking: Completion percentage, learned cards, due cards count |
 | Ưu tiên chủ đề: Đánh dấu chủ đề quan trọng cần học trước | Topic priority: Mark important topics to learn first |
 
-### 🔒 Bảo mật và bản quyền / Security & Licensing
-
-| Tiếng Việt | English |
-|------------|---------|
-| Mã hóa dữ liệu AES-256: Dữ liệu từ server được mã hóa, chỉ giải mã khi hiển thị | AES-256 Data Encryption: Server data is encrypted, only decrypted when displayed |
-| Hệ thống License: Kích hoạt bản quyền qua JWT token | License System: Activate license via JWT token |
-| Phân quyền theo gói: D1 (Cơ bản), D2 (Nâng cao), D3 (Chuyên nghiệp), D4 (Toàn quyền) | Tiered permissions: D1 (Basic), D2 (Advanced), D3 (Professional), D4 (Full) |
-| Xác thực thiết bị: License gắn với device ID, tránh chia sẻ trái phép | Device authentication: License tied to device ID, preventing unauthorized sharing |
-
 ### 📊 Thống kê và theo dõi / Statistics & Tracking
 
 | Tiếng Việt | English |
 |------------|---------|
 | Thống kê học tập: Số thẻ đã học, số thẻ mới, tỷ lệ đúng | Study statistics: Learned cards, new cards, accuracy rate |
-| Tích lũy XP: Cứ 5 thẻ mới hoặc 20 thẻ ôn được +1 XP | XP accumulation: Every 5 new cards or 20 review cards earns +1 XP |
+| Tích lũy XP theo dữ liệu: Thẻ mới học, thẻ cũ ôn lại, kết quả bài test | XP accumulation based on: New cards learned, old cards reviewed, test results |
 | Lịch sử học: Xem hoạt động theo ngày/tuần | Study history: View daily/weekly activity |
 
 ### 🎨 Giao diện tối ưu cho thiết bị ebook / E-ink Optimized UI
@@ -56,12 +47,7 @@
 |------------|---------|
 | Responsive layout: Tự động điều chỉnh kích thước theo độ phân giải màn hình | Responsive layout: Automatically adjusts size based on screen resolution |
 | Hỗ trợ cảm ứng và phím cứng: Vuốt để chuyển trang, nhấn giữ để mở menu | Touch and hardware key support: Swipe to navigate pages, long press for menus |
-| Dark/Light mode: Theo màu nền của KOReader | Dark/Light mode: Follows KOReader's background theme |
 | Bottom bar với 4 tab chính: Trang chủ, Học, Thư viện, Cài đặt | Bottom bar with 4 main tabs: Home, Study, Library, Settings |
-
----
-
-## 🏗️ Cấu trúc dự án / Project Structure
 
 ---
 
@@ -78,10 +64,18 @@
 
 ## 🚀 Cách cài đặt / Installation
 
-### Từ GitHub / From GitHub
+Vui lòng truy cập Website: https://doc-online.io.vn để tải plugin và xem hướng dẫn chi tiết.
 
-```bash
-cd koreader/plugins/
-git clone https://github.com/yourusername/memdeck.koplugin.git
-cd memdeck.koplugin/
-chmod +x lib/*.so
+Please visit Website: https://doc-online.io.vn to download the plugin and see detailed instructions.
+
+---
+
+## 📞 Liên hệ / Contact
+
+| Tiếng Việt | English |
+|------------|---------|
+| **Website** | https://doc-online.io.vn |
+| **Email** | support@doc-online.io.vn |
+| **GitHub** | https://github.com/yourusername/memdeck.koplugin |
+
+
