@@ -1,6 +1,41 @@
 # MemDeck - Ứng dụng học ngoại ngữ bằng Flashcard cho KOReader
 # MemDeck - Flashcard Language Learning App for KOReader
 
+## 🎨 Giao diện chính / Main Interface
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="[screenshots/home.png](https://github.com/doconline2026-cell/memdeck/blob/main/sample.jpg)" width="180"></td>
+      <td><img src="screenshots/study.png" width="180"></td>
+      <td><img src="screenshots/quiz.png" width="180"></td>
+      <td><img src="screenshots/library.png" width="180"></td>
+    </tr>
+    <tr>
+      <td align="center"><b>🏠 Trang chủ</b><br>Home</td>
+      <td align="center"><b>📖 Học</b><br>Study</td>
+      <td align="center"><b>📝 Quiz</b><br>Test</td>
+      <td align="center"><b>📚 Thư viện</b><br>Library</td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🎯 Các bước học / Learning Steps
+
+<div align="center">
+  <img src="screenshots/step1.png" width="150" />
+  <img src="screenshots/step2.png" width="150" />
+  <img src="screenshots/step3.png" width="150" />
+  <img src="screenshots/step4.png" width="150" />
+</div>
+
+<div align="center">
+  <b>1. Chọn sách</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>2. Học flashcard</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>3. Làm quiz</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>4. Xem kết quả</b>
+</div>
 ---
 
 ## 📖 Giới thiệu / Introduction
@@ -9,7 +44,6 @@
 
 **MemDeck** is a language learning plugin for **KOReader** (an e-ink reader platform for devices like Kindle, Kobo, PocketBook,android...). It helps users learn vocabulary effectively through flashcards combined with the spaced repetition system (SM-2).
 
-![text](https://github.com/doconline2026-cell/memdeck/blob/main/sample.jpg)
 ---
 
 ## ✨ Tính năng chính / Key Features
