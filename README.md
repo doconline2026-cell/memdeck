@@ -6,10 +6,10 @@
 <div align="center">
   <table>
     <tr>
-      <td><img src="sample.jpg" width="180"></td>
-      <td><img src="screenshots/study.png" width="180"></td>
-      <td><img src="screenshots/quiz.png" width="180"></td>
-      <td><img src="screenshots/library.png" width="180"></td>
+      <td><img src="screenshots/home.jpg" width="180"></td>
+      <td><img src="screenshots/study.jpg" width="180"></td>
+      <td><img src="screenshots/learn_quiz_1.jpgg" width="180"></td>
+      <td><img src="screenshots/library.jpg" width="180"></td>
     </tr>
     <tr>
       <td align="center"><b>🏠 Trang chủ</b><br>Home</td>
