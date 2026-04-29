@@ -22,6 +22,11 @@
   </table>
 </div>
 
+## 🚀 Cách cài đặt / Installation
+Vui lòng truy cập Website: https://doc-online.io.vn để tải plugin và xem hướng dẫn chi tiết.
+
+Please visit Website: https://doc-online.io.vn to download the plugin and see detailed instructions.
+
 ## 📖 Giới thiệu / Introduction
 
 **MemDeck** là một plugin học ngoại ngữ dành cho **KOReader** (nền tảng đọc sách trên các thiết bị e-ink như Kindle, Kobo, PocketBook, android...). Ứng dụng giúp người dùng học từ vựng hiệu quả thông qua phương pháp flashcard kết hợp hệ thống lặp lại ngắt quãng (SM-2).
