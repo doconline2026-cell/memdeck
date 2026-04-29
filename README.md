@@ -5,9 +5,9 @@
 
 ## 📖 Giới thiệu / Introduction
 
-**MemDeck** là một plugin học ngoại ngữ dành cho **KOReader** (nền tảng đọc sách trên các thiết bị e-ink như Kindle, Kobo, PocketBook). Ứng dụng giúp người dùng học từ vựng hiệu quả thông qua phương pháp flashcard kết hợp hệ thống lặp lại ngắt quãng (SM-2).
+**MemDeck** là một plugin học ngoại ngữ dành cho **KOReader** (nền tảng đọc sách trên các thiết bị e-ink như Kindle, Kobo, PocketBook, android...). Ứng dụng giúp người dùng học từ vựng hiệu quả thông qua phương pháp flashcard kết hợp hệ thống lặp lại ngắt quãng (SM-2).
 
-**MemDeck** is a language learning plugin for **KOReader** (an e-ink reader platform for devices like Kindle, Kobo, PocketBook). It helps users learn vocabulary effectively through flashcards combined with the spaced repetition system (SM-2).
+**MemDeck** is a language learning plugin for **KOReader** (an e-ink reader platform for devices like Kindle, Kobo, PocketBook,android...). It helps users learn vocabulary effectively through flashcards combined with the spaced repetition system (SM-2).
 
 ---
 
