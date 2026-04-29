@@ -9,6 +9,7 @@
 
 **MemDeck** is a language learning plugin for **KOReader** (an e-ink reader platform for devices like Kindle, Kobo, PocketBook,android...). It helps users learn vocabulary effectively through flashcards combined with the spaced repetition system (SM-2).
 
+![text](https://github.com/doconline2026-cell/memdeck/blob/main/sample.jpg)
 ---
 
 ## ✨ Tính năng chính / Key Features
