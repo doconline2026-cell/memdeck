@@ -8,13 +8,15 @@
     <tr>
       <td><img src="screenshots/home.jpg" width="180"></td>
       <td><img src="screenshots/study.jpg" width="180"></td>
-      <td><img src="screenshots/learn_quiz_1.jpgg" width="180"></td>
+      <td><img src="screenshots/learn_quiz_1.jpg" width="180"></td>
+      <td><img src="screenshots/learn_cloze_2.jpg" width="180"></td>
       <td><img src="screenshots/library.jpg" width="180"></td>
     </tr>
     <tr>
       <td align="center"><b>🏠 Trang chủ</b><br>Home</td>
       <td align="center"><b>📖 Học</b><br>Study</td>
       <td align="center"><b>📝 Quiz</b><br>Test</td>
+      <td align="center"><b>📝 Cloze</b><br>Test</td>
       <td align="center"><b>📚 Thư viện</b><br>Library</td>
     </tr>
   </table>
