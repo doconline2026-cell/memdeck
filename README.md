@@ -54,6 +54,7 @@ Please visit Website: https://doc-online.io.vn to download the plugin and see de
 | Tải sách từ Store Online: Kết nối server để tải bộ thẻ theo chủ đề | Download from Online Store: Connect to server to download themed card sets |
 | Import từ file CSV: Tự tạo bộ thẻ từ file Excel/CSV | Import from CSV file: Create custom card sets from Excel/CSV files |
 | Xem trước nội dung: Duyệt danh sách thẻ theo chủ đề trước khi học | Preview content: Browse cards by topic before studying |
+| Dừng và học tiếp sách bất kỳ | Pause and resume any book |
 | Theo dõi tiến độ: Phần trăm hoàn thành, số thẻ đã học, số thẻ đến hạn | Progress tracking: Completion percentage, learned cards, due cards count |
 | Ưu tiên chủ đề: Đánh dấu chủ đề quan trọng cần học trước | Topic priority: Mark important topics to learn first |
 
