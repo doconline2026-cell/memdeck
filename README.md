@@ -101,6 +101,6 @@ Please visit Website: https://doc-online.io.vn to download the plugin and see de
 |------------|---------|
 | **Website** | https://doc-online.io.vn |
 | **Email** | support@doc-online.io.vn |
-| **GitHub** | https://github.com/yourusername/memdeck.koplugin |
+| **GitHub** | [https://github.com/yourusername/memdeck.koplugin](https://github.com/doconline2026-cell/memdeck) |
 
 
