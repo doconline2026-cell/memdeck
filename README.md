@@ -45,6 +45,7 @@ Please visit Website: https://doc-online.io.vn to download the plugin and see de
 | Chế độ học Flashcards: Xem mặt trước (từ vựng) và mặt sau (nghĩa, ví dụ, phát âm) | Flashcard Mode: View front (vocabulary) and back (meaning, examples, pronunciation) |
 | Chế độ Quiz: Kiểm tra kiến thức với câu hỏi trắc nghiệm | Quiz Mode: Test knowledge with multiple-choice questions |
 | Chế độ Cloze Test: Điền từ còn thiếu vào câu | Cloze Test Mode: Fill in the missing words in sentences |
+| Chế độ Matching Test: Ghép các cặp tư vựng - nghĩa | Matching Test Mode: Match the vocabulary pairs with their meanings. |
 | Hỗ trợ đa ngôn ngữ: VI, EN, JA, KO, ZH, FR, DE, ES, RU, TH | Multi-language support: VI, EN, JA, KO, ZH, FR, DE, ES, RU, TH |
 
 ### 📚 Quản lý sách và thẻ / Book & Card Management
