@@ -14,21 +14,18 @@
     <tr>
       <td align="center"><b>🏠 Trang chủ</b><br>Home</td>
       <td align="center"><b>📖 Học</b><br>Study</td>
-      <td align="center"><b>📚 Thư viện</b><br>Test</td>
+      <td align="center"><b>📚 Thư viện</b><br>Library</td>
     </tr>
     <!-- Hàng 2: 3 ảnh tiếp theo -->
     <tr>
       <td><img src="screenshots/learn_quiz_1.jpg" width="180"></td>
       <td><img src="screenshots/learn_cloze_2.jpg" width="180"></td>
       <td><img src="screenshots/matching.jpg" width="180"></td>
-
-      <td></td>
     </tr>
     <tr>
       <td align="center"><b>📝 Quiz</b><br>Test</td>
-      <td align="center"><b>📝 Cloze</b><br>Library</td>
-      <td align="center"><b>📝 Matching</b><br>Matching</td>
-      <td></td>
+      <td align="center"><b>📝 Cloze</b><br>Cloze Test</td>
+      <td align="center"><b>🔀 Matching</b><br>Matching</td>
     </tr>
   </table>
 </div>
